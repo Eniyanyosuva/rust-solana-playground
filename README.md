@@ -1,4 +1,3 @@
-<h1 align="center">⚡ Rust × Solana Playground</h1>
 
 <p align="center">
   <a href="https://github.com/eniyanyosuva">
@@ -6,11 +5,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Anchor-512DA8?style=for-the-badge"/>
-</p>
 
 ---
 
@@ -48,7 +42,3 @@ Each snippet is small, intentional, and designed to strengthen real-world unders
 - Error handling
 - Initialization patterns
 - Security best practices
-
----
-
-## 📂 Repository Structure
