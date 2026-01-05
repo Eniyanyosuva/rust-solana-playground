@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/eniyanyosuva">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=14F195&center=true&vCenter=true&width=600&lines=Daily+Rust+%26+Solana+Practice;Core+Blockchain+Concepts;PDAs+%7C+CPI+%7C+Ownership+%7C+Security;Learning+by+Building" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=14F195&center=true&vCenter=true&width=600&lines=Daily+Rust+%26+Solana+Practice;Core+Blockchain+Concepts;PDAs+%7C+CPI+%7C+Ownership+%7C+Security;Learning+by+Building " />
   </a>
 </p>
 
