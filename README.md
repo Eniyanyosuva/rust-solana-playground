@@ -17,9 +17,9 @@
 A **hands-on learning lab** where I practice and experiment with  
 **Rust**, **Solana**, and **Anchor** every day.
 
-➡️ Not a “big project repo” — this is where I:
-- break things 🧨  
-- fix them 🔧  
+➡️ Not a “project repo” — this is where I:
+- break things🧨  
+- fix them🔧  
 - understand **why they broke** 🧠  
 
 
