@@ -46,7 +46,7 @@ A **hands-on learning lab** where I practice and experiment with
 
 ---
 
-### ⚓ Anchor Patterns
+### ⚓Anchor Patterns
 ✔ Account Constraints  
 ✔ Secure Initialization  
 ✔ Custom Errors  
