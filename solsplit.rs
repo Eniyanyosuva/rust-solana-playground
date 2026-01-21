@@ -29,7 +29,6 @@ pub mod solsplit {
 
         let lamports_a = amount * state.percent_a as u64 / 100;
         let lamports_b = amount - lamports_a;
-
         **ctx.accounts.sender.try_borrow_mut_lamports()? -= amount;
         **ctx.accounts.recipient_a.try_borrow_mut_lamports()? += lamports_a;
         **ctx.accounts.recipient_b.try_borrow_mut_lamports()? += lamports_b;
