@@ -6,7 +6,6 @@ declare_id!("So1Sp1iT111111111111111111111111111111111");
 pub mod solsplit {
     use super::*;
 
-    
     pub fn initialize(
         ctx: Context<Initialize>,
         percent_a: u8,
