@@ -11,7 +11,7 @@
 </p>
 
 ---
-## 🚀rust-solana-playground 
+## 🚀rust-solana-playground  
 
 A **hands-on learning lab** where I practice and experiment with  
 **Rust**, **Solana**, and **Anchor** every day.
