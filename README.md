@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Anchor-4CAF50?style=for-the-badge"/>
 </p>
 
---- 
+---  
 ## 🚀rust-solana-playground   
 
 A **hands-on learning lab** where I practice and experiment with  
